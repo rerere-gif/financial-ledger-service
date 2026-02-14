@@ -50,5 +50,3 @@ See the file: [`FinancialLedgerAPI.postman_collection.json`](./FinancialLedgerAP
 *   **Add API documentation.** Use Swagger/OpenAPI for automatically generating API documentation.
 
 ---
-
-*Note: In the current implementation, the account balance can go negative if allowed by transaction logic (e.g., for an `ASSET` type account).*
